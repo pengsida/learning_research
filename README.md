@@ -25,7 +25,7 @@
     - [论文写作模板](https://pengsida.notion.site/c1a22465a0fa4b15a12985223916048e)（实验室内部觉得很好用）
     - [高水平科研工作者的写作经验](https://pengsida.notion.site/74aef88b9187439fa4e301704f6eb49a)
 4. [怎么rebuttal](https://pengsida.notion.site/rebuttal-af99ce47103e4917b6a5bd1fd4b3c022)
-5. 怎么做presentation slides: To be updated.
+5. [怎么做学术报告slides](https://pengsida.notion.site/slides-810f02670691444f8c94cc3d5b76dcbc)
 
 ## Citation
 
