@@ -9,7 +9,7 @@
 **Postscript:**
 1. 本文档内容可能无法完全反映本人想表达的意思，内容可能也不够完整。如果想深入学习科研，推荐在参考文档的情况下在实践与交流中学习。
 2. 本文档适用于[本人](https://pengsida.net/)在[本实验室](https://xzhou.me/)的科研经历，但不一定适用于其他情况。
-3. 本文档将持续更新（更新可能会在notion文档中进行，因此不一定会反映在commit history中）。文档上次更新时间：2023年6月21日。
+3. 本文档将持续更新（更新可能会在notion文档中进行，因此不一定会反映在commit history中）。文档上次更新时间：2023年6月29日。
 
 ## 如何努力成为一个Top Ph.D. Student
 
@@ -26,6 +26,8 @@
     - [高水平科研工作者的写作经验](https://pengsida.notion.site/74aef88b9187439fa4e301704f6eb49a)
 4. [怎么rebuttal](https://pengsida.notion.site/rebuttal-af99ce47103e4917b6a5bd1fd4b3c022)
 5. [怎么做学术报告slides](https://pengsida.notion.site/slides-810f02670691444f8c94cc3d5b76dcbc)
+
+上述建议的部分内容总结在了这个[slides](https://pengsida.net/files/how_to_do_research.pdf)中。
 
 ## Citation
 
