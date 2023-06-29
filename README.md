@@ -27,7 +27,7 @@
 4. [怎么rebuttal](https://pengsida.notion.site/rebuttal-af99ce47103e4917b6a5bd1fd4b3c022)
 5. [怎么做学术报告slides](https://pengsida.notion.site/slides-810f02670691444f8c94cc3d5b76dcbc)
 
-上述建议的部分内容总结在了这个[slides](https://pengsida.net/files/how_to_do_research.pdf)中。
+这些建议的部分内容总结在了这个[slides](https://pengsida.net/files/how_to_do_research.pdf)中。
 
 ## Citation
 
