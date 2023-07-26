@@ -20,7 +20,7 @@
 在实际做科研过程中，Ph.D. student需要有五方面的能力：寻找重要的科研问题、提出解决方案、做实验、写论文、做presentation。下面是一些具体的建议。
 1. [如何入门3D Vision的科研](./getting_started_in_research.md)
 2. [如何培养自己的科研能力 (寻找科研问题、想idea、做实验、与导师meet)](./getting_advanced_in_research.md)
-3. [如何进行一个research project](https://pengsida.notion.site/research-project-b43507ef26d044bd888ac29f4736e116)
+3. [如何做好一个research project](https://pengsida.notion.site/research-project-b43507ef26d044bd888ac29f4736e116)
 4. 论文写作
     - [如何练习写论文](https://pengsida.notion.site/c13c7e52aab64c1a8e3576b97fcb9851)
     - [论文写作模板](https://pengsida.notion.site/c1a22465a0fa4b15a12985223916048e)（实验室内部觉得很好用）
