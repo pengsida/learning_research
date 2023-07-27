@@ -20,7 +20,7 @@
 2. 同时看一门计算机视觉的课程，不用做作业：[http://cs231n.stanford.edu/schedule.html](http://cs231n.stanford.edu/schedule.html)。该课程对深度学习在计算机视觉的应用有较为全面的介绍。因为已经在具体实现某个论文的算法了，所以这个阶段可以不用做作业，只需要看课程视频和课程讲义即可，不然日常时间可能不够分配。  
 如果对传统图形学的知识感兴趣，还需要看[GAMES101-现代计算机图形学入门](https://games-cn.org/intro-graphics/)（闫令琪老师开的课，讲得特别好）。  
 如果对motion synthesis/computer animation感兴趣，还需要看[GAMES105-计算机角色动画基础](https://games-105.github.io/)（刘利斌老师开的课，讲得特别好）。
-3. 在学习的过程中，参与旁听某个学长/学姐的科研项目，旁听我们每周的讨论，见识做科研具体是怎样的（[这个文档](https://pengsida.notion.site/research-project-b43507ef26d044bd888ac29f4736e116)总结了一个research project的具体流程）。等你算法基础和实验能力足够时，实验室会试着让你帮忙做我们Project的一些实验，从而开始上手做科研项目。参与Project时会读一些论文、做一些实验。[这个文档](https://pengsida.notion.site/d192db870bc64436ae4a4a590b36772a)总结了如何有效地读论文。
+3. 在学习的过程中，参与旁听某个学长/学姐的科研项目，旁听我们每周的讨论，见识做科研具体是怎样的（[这个文档](https://pengsida.notion.site/research-project-b43507ef26d044bd888ac29f4736e116)总结了research project的具体流程）。等你算法基础和实验能力足够时，实验室会试着让你帮忙做我们Project的一些实验，从而开始上手做科研项目。参与Project时会读一些论文、做一些实验。[这个文档](https://pengsida.notion.site/research-project-b43507ef26d044bd888ac29f4736e116)总结了做research project需要的能力和相应的教程。
 
 在这个阶段可以熟悉一些[常用的工具、配置](https://pengsida.notion.site/59569d7b66954578b21bf1dc6ea35776)（这些工具是实验室的[贺星毅](https://github.com/hxy-123)同学整理的）。
 
