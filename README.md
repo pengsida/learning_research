@@ -32,4 +32,6 @@
 
 ## Citation
 
+若该文档对您有所帮助，请在页面右上角点个 Star :star: 支持一下，谢谢！
+
 如果转载该文档的内容，请注明出处：[https://github.com/pengsida/learning_research](https://github.com/pengsida/learning_research)。
