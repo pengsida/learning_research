@@ -35,3 +35,7 @@
 若该文档对您有所帮助，请在页面右上角点个Star:star:支持一下，谢谢！
 
 如果转载该文档的内容，请注明出处：[https://github.com/pengsida/learning_research](https://github.com/pengsida/learning_research)。
+
+## Acknowledgements
+
+本文档内容主要是本人与导师、实验室同学日常交流讨论的总结。在此非常感谢以下人员对这份文档的启发：[周晓巍老师](https://xzhou.me/)、[孙佳明](https://jiamingsun.ml/)、[帅青](https://chingswy.github.io/)、[郭浩宇](https://github.com/ghy0324)、[贺星毅](https://github.com/hxy-123)、[林浩通](https://haotongl.github.io/)、[徐震](https://github.com/dendenxu)、[张上展](https://zhanghe3z.github.io/)、[皮怀瑾](https://github.com/phj128)。
