@@ -14,3 +14,4 @@
 3. [Michael Nielsen的科研经验](https://pengsida.net/files/Michael_Nielsen_How_to_do_research.pdf)
 4. [Xiangyang Shen的科研经验](https://pengsida.net/files/Xiangyang_Shen_How_to_do_research.png)
 5. [Zhilin Yang的科研经验](https://pengsida.net/files/Zhilin_Yang_How_to_do_research.pdf)
+6. [Wujun Li的《浅谈本科生科研能力培养》](https://pengsida.net/files/Wujun_Li_Undergraduate_learning_research.pdf)
