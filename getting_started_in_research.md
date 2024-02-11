@@ -16,7 +16,7 @@
 
 这个阶段需要做三方面的事情：
 
-1. 首先选择一个自己感兴趣的科研方向。这是实验室的研究方向的一些[介绍性的视频和资料](https://pengsida.notion.site/38a877c2debb4fb79d3188d64703dab5)。选择具体的科研方向以后，请实验室学长/学姐帮自己定制具体的学习计划。这是学习计划的一个[例子](https://pengsida.notion.site/8911dcc5922b4442a80d4407926e65bf)（这个例子的内容可能随着时间的推移而变得过时，请注重其体现出的计划思路）。
+1. 首先选择一个自己感兴趣的科研方向。选择具体的科研方向以后，请实验室学长/学姐帮自己定制具体的学习计划。这是学习计划的一个[例子](https://pengsida.notion.site/8911dcc5922b4442a80d4407926e65bf)（这个例子的内容可能随着时间的推移而变得过时，请注重其体现出的计划思路）。
 2. 同时看一门计算机视觉的课程，不用做作业：[http://cs231n.stanford.edu/schedule.html](http://cs231n.stanford.edu/schedule.html)。该课程对深度学习在计算机视觉的应用有较为全面的介绍。因为已经在具体实现某个论文的算法了，所以这个阶段可以不用做作业，只需要看课程视频和课程讲义即可，不然日常时间可能不够分配。  
 如果对传统图形学的知识感兴趣，还需要看[GAMES101-现代计算机图形学入门](https://games-cn.org/intro-graphics/)、[GAMES202-高质量实时渲染](https://sites.cs.ucsb.edu/~lingqi/teaching/games202.html)（闫令琪老师开的课，讲得特别好）。  
 如果对motion synthesis/computer animation感兴趣，还需要看[GAMES105-计算机角色动画基础](https://games-105.github.io/)（刘利斌老师开的课，讲得特别好）。
