@@ -16,3 +16,4 @@
 5. [Xiangyang Shen的科研经验](https://pengsida.net/files/Xiangyang_Shen_How_to_do_research.png)
 6. [Zhilin Yang的科研经验](https://pengsida.net/files/Zhilin_Yang_How_to_do_research.pdf)
 7. [Wujun Li的《浅谈本科生科研能力培养》](https://pengsida.net/files/Wujun_Li_Undergraduate_learning_research.pdf)
+8. [Xintao Wang的科研编程与实验经验](https://www.yuque.com/xinntao/nm1yxs/uwzezu0qebdxs38t)
