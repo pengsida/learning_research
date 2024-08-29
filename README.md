@@ -1,8 +1,8 @@
 **News**
 
 * `08/25/2024` 受到GAMES组委会的启发，本人与另外三位研究人员（[高俊](https://www.cs.toronto.edu/~jungao/)、[彭崧猷](https://pengsongyou.github.io/)、[王倩倩](https://qianqianwang68.github.io/)）在GAMES平台上开设课程：[GAMES003: 科研基本素养](https://pengsida.net/games003/)。<br>
-  <br>
-  <img style="width: 30%; height: 30%;" src="https://pengsida.net/games003/GAMES003_files/qrcode_v5.png"> 
+  添加 GAMES Webinar 官方微信账号：gameswebinar，发送“003”，即可被邀请至课程答疑群。<br>
+  <img style="width: 30%; height: 30%;" src="https://pengsida.net/games003/GAMES003_files/qrcode.png"> 
 
 # Learning Research
 
