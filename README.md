@@ -35,8 +35,13 @@
 5. [怎么rebuttal](https://pengsida.notion.site/rebuttal-af99ce47103e4917b6a5bd1fd4b3c022)
 6. [怎么做学术报告slides](https://pengsida.notion.site/slides-810f02670691444f8c94cc3d5b76dcbc)
 
+### Slides
+
 这些建议的部分内容总结在了以下slides和视频中：
-1. 《GAMES003：科研基本素养》版本：[slides](https://pengsida.net/games003/GAMES003_files/week_1.pdf) 和 [课程视频](https://www.bilibili.com/video/BV1RitTezEa9/?vd_source=1b53504d594b3b106e5065f1298139ba)。
+1. 《GAMES003：科研基本素养》版本：
+   - [《科研流程概述与领域视野建立》slides](https://pengsida.net/games003/GAMES003_files/week_1.pdf) 和 [课程视频](https://www.bilibili.com/video/BV1RitTezEa9?p=1)
+   - [《技术方案的设计方法》slides](https://pengsida.net/games003/GAMES003_files/week_3.pdf) 和 [课程视频](https://www.bilibili.com/video/BV1RitTezEa9?p=3)
+   - [《面向实验结果的方案优化》slides](https://pengsida.net/games003/GAMES003_files/week_5.pdf) 和 [课程视频](https://www.bilibili.com/video/BV1RitTezEa9?p=5)
 2. 《learning research》版本：[slides](https://pengsida.net/files/learning_research_v4.pdf) 和 [talk video](https://www.bilibili.com/video/BV1DA4m1V7D3/)。
 
 ## Citation
