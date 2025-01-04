@@ -16,13 +16,13 @@
 **Postscript:**
 1. 本文档内容可能无法完全反映本人想表达的意思，内容可能也不够完整。如果想深入学习科研，推荐在参考文档的情况下在实践与交流中学习。
 2. 本文档适用于[本人](https://pengsida.net/)在[本实验室](https://xzhou.me/)的科研经历，但不一定适用于其他情况。
-3. 本文档将持续更新（更新可能会在notion文档中进行，因此不一定会反映在commit history中）。文档上次更新时间：2024年11月28日。
+3. 本文档将持续更新（更新可能会在notion文档中进行，因此不一定会反映在commit history中）。文档上次更新时间：2025年1月4日。
 
 ## 如何努力成为一个Top Ph.D. Student
 
 <!-- 要做好这个科研经验总结，需要先回答一个问题：Top Ph.D. student具备哪些方面的能力？ -->
 
-核心的能力：个人认为，top Ph.D. student懂得设定一个长远的科研目标。这个科研目标具有重要的科学价值和实际价值 (在实际应用中寻找真正有价值的科学问题)。然后根据这个科研目标细化科研的roadmap。博士期间做的几篇论文都是围绕着解决这个科研目标，并且做的论文能够清晰地展示出自己沿roadmap的科研进展，论文demo要尽量很酷（例子：[AI4Animation](https://github.com/sebastianstarke/AI4Animation)、[AI绘画](https://lllyasviel.github.io/Style2PaintsResearch/#research)）。
+核心的能力：个人认为，top Ph.D. student懂得设定一个长远的科研目标。这个科研目标具有重要的科学价值和实际价值 (在实际应用中寻找真正有价值的科学问题)。然后根据这个科研目标细化科研的roadmap。博士期间做的几篇论文都是围绕着解决这个科研目标，并且做的论文能够清晰地展示出自己沿roadmap的科研进展，论文demo要尽量很酷（例子：[博士生的楷模：Sebastian Starke](https://pengsida.notion.site/Sebastian-Starke-1713fe292ff1808eb33be93ea2d79ad9?pvs=4)）。
 
 在实际做科研过程中，Ph.D. student需要有五方面的能力：寻找重要的科研问题、提出解决方案、做实验、写论文、做presentation。下面是一些具体的建议。
 1. [如何入门3D Vision的科研](./getting_started_in_research.md)
