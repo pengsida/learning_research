@@ -1,7 +1,6 @@
 **News**
 
-* `09/15/2024` 哔哩哔哩线上课程视频：[《GAMES003：图形视觉科研基本素养》](https://www.bilibili.com/video/BV1RitTezEa9/?vd_source=1b53504d594b3b106e5065f1298139ba)。
-* `08/25/2024` 受到GAMES组委会的启发，本人与另外三位研究人员（[高俊](https://www.cs.toronto.edu/~jungao/)、[彭崧猷](https://pengsongyou.github.io/)、[王倩倩](https://qianqianwang68.github.io/)）在GAMES平台上开设课程：[《GAMES003：图形视觉科研基本素养》](https://pengsida.net/games003/)。<br>
+* 本人长期提供在线科研答疑帮助，具体可见此[推文](https://mp.weixin.qq.com/s/dX5mEuHardVTRF-pWzXojA)。提问方式为填写该[问卷](https://docs.qq.com/form/page/DZkVZV1pYTnRMcEpM#/fill)。
 
 # Learning Research
 
@@ -41,6 +40,8 @@
    - [《技术方案的设计方法》slides](https://pengsida.net/games003/GAMES003_files/week_3.pdf) 和 [课程视频](https://www.bilibili.com/video/BV1RitTezEa9?p=3)
    - [《面向实验结果的方案优化》slides](https://pengsida.net/games003/GAMES003_files/week_5.pdf) 和 [课程视频](https://www.bilibili.com/video/BV1RitTezEa9?p=5)
 2. 《learning research》版本：[slides](https://pengsida.net/files/learning_research_v4.pdf) 和 [talk video](https://www.bilibili.com/video/BV1DA4m1V7D3/)。
+
+本人与另外三位研究人员（[高俊](https://www.cs.toronto.edu/~jungao/)、[彭崧猷](https://pengsongyou.github.io/)、[王倩倩](https://qianqianwang68.github.io/)）在GAMES平台上开设了课程：[《GAMES003：图形视觉科研基本素养》](https://pengsida.net/games003/)。
 
 ## Citation
 
