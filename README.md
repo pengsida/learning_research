@@ -1,6 +1,7 @@
 **News**
 
 * 本人长期提供在线科研答疑帮助，具体可见此[推文](https://mp.weixin.qq.com/s/dX5mEuHardVTRF-pWzXojA)。提问方式为填写该[问卷](https://docs.qq.com/form/page/DZkVZV1pYTnRMcEpM#/fill)。
+* 实验室常年接收科研实习生与访问学生。如果对3DV、world model、video generation感兴趣，欢迎填写该[问卷](https://docs.qq.com/form/page/DZkxUcXRteEhnWktK)申请我们实验室。
 
 # Learning Research
 
