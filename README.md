@@ -1,7 +1,3 @@
-**News**
-
-* 实验室长期招收科研实习生与访问学生，并提供工业界大厂实习机会。欢迎填写该[问卷](https://docs.qq.com/form/page/DZkxUcXRteEhnWktK)申请我们实验室。
-
 # Learning Research
 
 ## Motivation of This Repository
