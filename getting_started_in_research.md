@@ -6,7 +6,10 @@
 
 学习《Deep Learning for Computer Vision》课程。重点是完成里面的作业。懂得做作业，也就懂课程内容了。建议在GitHub上维护一个repo，存放作业。
 
-推荐的课程是Andrej Karpathy教授的课程。这是[课程链接](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedule.html)。
+推荐的课程是Andrej Karpathy教授的课程。课程链接:   
+1. 视频：B站 [https://www.bilibili.com/video/BV1eD4y1U7uu/](https://www.bilibili.com/video/BV1eD4y1U7uu/)；YouTube [https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)；
+2. 作业（A1–A6，Winter 2022 原版）：[https://github.com/nizne9/EECS498-WI22](https://github.com/nizne9/EECS498-WI22)；
+3. 教材：[https://www.deeplearningbook.org/](https://www.deeplearningbook.org/)。
 
 如果对哪些算法或哪些代码有问题，推荐谷歌搜索或者问new bing，如果找不到答案，建议敢于向高年级学长/学姐询问。
 
